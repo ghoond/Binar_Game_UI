@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Binar_Game_GBK_with_UI</string>
+    <string name="permainan_gbk">Permainan Gunting Batu Kertas</string>
+    <string name="player">Pemain Manusia</string>
+    <string name="com">Pemain Komputer</string>
+    <string name="batu">Batu</string>
+    <string name="gunting">Gunting</string>
+    <string name="kertas">Kertas</string>
+    <string name="vs">Lawan</string>
+</resources>
